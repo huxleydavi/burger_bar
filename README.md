@@ -1,4 +1,4 @@
-# burger_bar
+# Burger Bar
 A simple and responsive website for a Burger Bar of my region city.
 
 - Responsive
